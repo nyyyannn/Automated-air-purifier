@@ -17,3 +17,7 @@ An IoT-based automated air purifier system that monitors air quality and control
 ## 📂 Project Structure
 
 ## 🛠️ Team 
+ - Nayan 
+ - Kailash
+ - Taib Ahmed
+
